@@ -589,7 +589,7 @@ tr:nth-child(even) {
 
 .progress {
   height: 24px;
-  width: 80%;
+  width: 90%;
   align-items: center;
   position: absolute;
   top: 0.25rem;
@@ -606,11 +606,11 @@ tr:nth-child(even) {
 }
 
 .js {
-  width: 75%;
+  width: 95%;
 }
 
 .php {
-  width: 50%;
+  width: 95%;
 }
 .text-bar {
   color: #fff;
